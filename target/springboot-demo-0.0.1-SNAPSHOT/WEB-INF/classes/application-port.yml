@@ -1,0 +1,6 @@
+spring:
+  profiles: pro
+   datasource:
+          url:  jdbc:mysql://120.79.208.6:3306/test_spring_boot?useUnicode=true&characterEncoding=utf-8&useSSL=false
+server:
+  port: 8080
